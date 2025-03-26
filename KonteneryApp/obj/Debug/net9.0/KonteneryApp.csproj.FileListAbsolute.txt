@@ -1,0 +1,14 @@
+C:\Users\ochro\Desktop\KonteneryApp\KonteneryApp\bin\Debug\net9.0\KonteneryApp.exe
+C:\Users\ochro\Desktop\KonteneryApp\KonteneryApp\bin\Debug\net9.0\KonteneryApp.deps.json
+C:\Users\ochro\Desktop\KonteneryApp\KonteneryApp\bin\Debug\net9.0\KonteneryApp.runtimeconfig.json
+C:\Users\ochro\Desktop\KonteneryApp\KonteneryApp\bin\Debug\net9.0\KonteneryApp.dll
+C:\Users\ochro\Desktop\KonteneryApp\KonteneryApp\bin\Debug\net9.0\KonteneryApp.pdb
+C:\Users\ochro\Desktop\KonteneryApp\KonteneryApp\obj\Debug\net9.0\KonteneryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ochro\Desktop\KonteneryApp\KonteneryApp\obj\Debug\net9.0\KonteneryApp.AssemblyInfoInputs.cache
+C:\Users\ochro\Desktop\KonteneryApp\KonteneryApp\obj\Debug\net9.0\KonteneryApp.AssemblyInfo.cs
+C:\Users\ochro\Desktop\KonteneryApp\KonteneryApp\obj\Debug\net9.0\KonteneryApp.csproj.CoreCompileInputs.cache
+C:\Users\ochro\Desktop\KonteneryApp\KonteneryApp\obj\Debug\net9.0\KonteneryApp.dll
+C:\Users\ochro\Desktop\KonteneryApp\KonteneryApp\obj\Debug\net9.0\refint\KonteneryApp.dll
+C:\Users\ochro\Desktop\KonteneryApp\KonteneryApp\obj\Debug\net9.0\KonteneryApp.pdb
+C:\Users\ochro\Desktop\KonteneryApp\KonteneryApp\obj\Debug\net9.0\KonteneryApp.genruntimeconfig.cache
+C:\Users\ochro\Desktop\KonteneryApp\KonteneryApp\obj\Debug\net9.0\ref\KonteneryApp.dll
